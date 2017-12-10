@@ -10,7 +10,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>cn.e3mall</groupId>
-			<artifactId>e3_manager_dao</artifactId>
+			<artifactId>e3_manager_pojo</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
